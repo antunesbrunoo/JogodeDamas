@@ -1,0 +1,5 @@
+Jogo de damas azul contra vermelhas
+
+para mover a peça é necessário clicar com o botão direito do mouse, para ir para a direita, ou esquerdo, para ir para esquerda.
+não tem como encerrar o jogo, mas tem como carregar algum jogo que foi salvo pelo botão "Salvar" ao pressionar o botão "Carregar", só é possível comer uma peça por vez
+e a movimentação da peça Dama não foi implementada apenas a mudança de cor.
